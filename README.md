@@ -1,1 +1,3 @@
-# StopWatch-Tkinter
+# Stopwatch-Tkinter
+
+Stopwatch with comments.
