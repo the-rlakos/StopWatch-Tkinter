@@ -2,7 +2,7 @@
 
 A minimal **stopwatch** with **Start**, **Stop**, and **Reset** built with Tkinter.
 
-## How it Works (High Level)
+## How it Works
 1. The app keeps track of `start_time`, `elapsed`, and `running`.
 2. `update_ui()` is scheduled every 10 ms via `root.after(10, ...)` to refresh the displayed time.
 3. **Start** computes a new `start_time` adjusted by any previously elapsed time.
